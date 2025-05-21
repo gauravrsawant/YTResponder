@@ -39,11 +39,7 @@ This system addresses the challenge of engaging with viewers at scale while main
 
 ## Architecture
 
-```mermaid
 ![Architecture Diagram](overview.png)
-```
-
----
 
 ---
 
@@ -57,4 +53,4 @@ This system addresses the challenge of engaging with viewers at scale while main
 ---
 
 
-**Credits:** This project was inspired by the incredible content shared by [Shaw Talebi]('https://medium.com/data-science/qlora-how-to-fine-tune-an-llm-on-a-single-gpu-4e44d6b5be32').
+**Credits:** This project was inspired by the incredible content shared by [Shaw Talebi](https://medium.com/data-science/qlora-how-to-fine-tune-an-llm-on-a-single-gpu-4e44d6b5be32)
